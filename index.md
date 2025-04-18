@@ -15,3 +15,6 @@ cout<<"number is"<<number<<endl;
 return 0;
 }
 ```
+- [x] open file
+- [ ] Read the code
+- [ ] Fix this code
